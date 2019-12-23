@@ -67,6 +67,10 @@ h2{
     text-align: center;
     margin-top: 20px;
 }
+.social-div a{
+    color: #CCCCCC;
+    text-decoration: none;
+}
 ul {
   list-style-type: none;
     font-size: 1.4vw;
@@ -74,20 +78,10 @@ ul {
     padding: 0 10px 0 10px;
     text-align: center;
     width: 100px;
-    
 }
 .social-icon{
     display: inline-block;
 }
-/*
-.fab{
-  text-align: center;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-}
-*/
 /*----------movies------------*/
 .movies{
     margin: auto;
