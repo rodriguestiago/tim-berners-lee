@@ -6,4 +6,8 @@ Langages utilisées: HTML et CSS.
 
 Publication du CV comme page GitHub [ici](https://rodriguestiago.github.io/tim-berners-lee/).
 
+Difficultés rencontrés: aligner les icônes des reseaux sociaux.
+
+Résolution: création d'une div avec toutes les différentes listes à l'intérieur et création de différentes listes pour les différents réseaux sociaux.
+
 Réalisé par Tiago Rodrigues
